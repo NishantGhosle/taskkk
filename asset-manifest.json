@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/NishantGhosle/taskkk/static/css/main.073c9b0a.css",
-    "main.js": "/NishantGhosle/taskkk/static/js/main.976cb757.js",
-    "static/js/787.070df2f2.chunk.js": "/NishantGhosle/taskkk/static/js/787.070df2f2.chunk.js",
-    "index.html": "/NishantGhosle/taskkk/index.html",
-    "main.073c9b0a.css.map": "/NishantGhosle/taskkk/static/css/main.073c9b0a.css.map",
-    "main.976cb757.js.map": "/NishantGhosle/taskkk/static/js/main.976cb757.js.map",
-    "787.070df2f2.chunk.js.map": "/NishantGhosle/taskkk/static/js/787.070df2f2.chunk.js.map"
+    "main.css": "/taskkk/static/css/main.073c9b0a.css",
+    "main.js": "/taskkk/static/js/main.3c93ad40.js",
+    "static/js/787.070df2f2.chunk.js": "/taskkk/static/js/787.070df2f2.chunk.js",
+    "index.html": "/taskkk/index.html",
+    "main.073c9b0a.css.map": "/taskkk/static/css/main.073c9b0a.css.map",
+    "main.3c93ad40.js.map": "/taskkk/static/js/main.3c93ad40.js.map",
+    "787.070df2f2.chunk.js.map": "/taskkk/static/js/787.070df2f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.976cb757.js"
+    "static/js/main.3c93ad40.js"
   ]
 }
